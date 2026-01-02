@@ -1,0 +1,77 @@
+/* [project]/styles/globals.css [client] (css) */
+:root {
+  --accent: #2563eb;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: #0f172a;
+  background: #fff;
+  margin: 0;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.container {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.nav {
+  gap: 16px;
+  margin-bottom: 28px;
+  display: flex;
+}
+
+.h1 {
+  letter-spacing: -.02em;
+  margin: 0 0 10px;
+  font-size: 40px;
+}
+
+.sub {
+  color: #334155;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.section {
+  margin-top: 28px;
+}
+
+.card {
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  margin-top: 12px;
+  padding: 16px;
+}
+
+.badge {
+  color: #334155;
+  border: 1px solid #e2e8f0;
+  border-radius: 999px;
+  margin-right: 8px;
+  padding: 4px 8px;
+  font-size: 12px;
+  display: inline-block;
+}
+
+.footer {
+  color: #64748b;
+  margin-top: 40px;
+  font-size: 14px;
+}
+
+/*# sourceMappingURL=styles_globals_dc36e6c9.css.map*/

@@ -1,0 +1,12 @@
+[00:00:00.266] Server  LOG     ✓ Ready in 169ms
+[00:00:03.987] Server  ERROR   ⨯ Error: The default export is not a React Component in page: "/"
+[00:00:04.006] Server  ERROR   ⨯ Error: The default export is not a React Component in page: "/"
+[00:00:04.144] Browser ERROR   uncaughtError: Error: The default export is not a React Component in page: "/"
+[00:00:46.693] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:00:46.746] Server  LOG     ✓ Compiled in 72ms
+[00:01:08.940] Server  LOG     ✓ Compiled in 15ms
+[00:01:18.387] Server  LOG     ✓ Compiled in 13ms
+[00:01:30.173] Server  LOG     ✓ Compiled in 11ms
+[00:01:52.122] Server  LOG     ✓ Compiled in 13ms
+[00:02:20.164] Server  LOG     ✓ Compiled in 13ms
+[00:02:46.226] Server  LOG     ✓ Compiled in 7ms
