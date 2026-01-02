@@ -5,15 +5,15 @@ export default function About() {
     <Layout>
       <h1 className="h1">About</h1>
       <p className="sub">
-        Write 4–6 sentences: what you’re focused on, what you’ve built, what you want next.
+        I enjoy the outdoors, music, and spending time with friends and family.
       </p>
 
       <div className="section">
-        <h3 style={{ marginBottom: 8 }}>Skills</h3>
-        <div className="badge">TypeScript</div>
-        <div className="badge">React</div>
-        <div className="badge">Node.js</div>
-        <div className="badge">SQL</div>
+        <h3 style={{ marginBottom: 8 }}>Skills & Interests</h3>
+        <div className="badge">Software Engineering</div>
+        <div className="badge">AI Research</div>
+        <div className="badge">Leadership</div>
+        <div className="badge">Entrepreneurship</div>
       </div>
     </Layout>
   );

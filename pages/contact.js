@@ -5,11 +5,11 @@ export default function Contact() {
     <Layout>
       <h1 className="h1">Contact</h1>
       <p className="sub">
-        Email me at <a href="mailto:you@example.com">you@example.com</a>.
+        Email me at <a href="shulman.samantha@gmail.com">shulman.samantha@gmail.com</a>.
       </p>
       <div className="section">
-        <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a>{" · "}
-        <a href="https://github.com/YOUR_GITHUB" target="_blank">GitHub</a>
+        <a href="https://www.linkedin.com/in/samantha-shulman-16b352187/" target="_blank">LinkedIn</a>{" · "}
+        <a href="https://github.com/samshulman" target="_blank">GitHub</a>
       </div>
     </Layout>
   );

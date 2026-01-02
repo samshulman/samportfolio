@@ -95,8 +95,8 @@ function Contact() {
                 children: [
                     "Email me at ",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
-                        href: "mailto:you@example.com",
-                        children: "you@example.com"
+                        href: "shulman.samantha@gmail.com",
+                        children: "shulman.samantha@gmail.com"
                     }, void 0, false, {
                         fileName: "[project]/pages/contact.js",
                         lineNumber: 8,
@@ -113,7 +113,7 @@ function Contact() {
                 className: "section",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
-                        href: "https://www.linkedin.com/in/YOUR_LINKEDIN",
+                        href: "https://www.linkedin.com/in/samantha-shulman-16b352187/",
                         target: "_blank",
                         children: "LinkedIn"
                     }, void 0, false, {
@@ -123,7 +123,7 @@ function Contact() {
                     }, this),
                     " · ",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("a", {
-                        href: "https://github.com/YOUR_GITHUB",
+                        href: "https://github.com/samshulman",
                         target: "_blank",
                         children: "GitHub"
                     }, void 0, false, {

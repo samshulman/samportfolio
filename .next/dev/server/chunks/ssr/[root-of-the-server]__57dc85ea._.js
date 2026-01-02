@@ -92,7 +92,7 @@ function About() {
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("p", {
                 className: "sub",
-                children: "Write 4–6 sentences: what you’re focused on, what you’ve built, what you want next."
+                children: "I enjoy the outdoors, music, and spending time with friends and family."
             }, void 0, false, {
                 fileName: "[project]/pages/about.js",
                 lineNumber: 7,
@@ -105,7 +105,7 @@ function About() {
                         style: {
                             marginBottom: 8
                         },
-                        children: "Skills"
+                        children: "Skills & Interests"
                     }, void 0, false, {
                         fileName: "[project]/pages/about.js",
                         lineNumber: 12,
@@ -113,7 +113,7 @@ function About() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                         className: "badge",
-                        children: "TypeScript"
+                        children: "Software Engineering"
                     }, void 0, false, {
                         fileName: "[project]/pages/about.js",
                         lineNumber: 13,
@@ -121,7 +121,7 @@ function About() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                         className: "badge",
-                        children: "React"
+                        children: "AI Research"
                     }, void 0, false, {
                         fileName: "[project]/pages/about.js",
                         lineNumber: 14,
@@ -129,7 +129,7 @@ function About() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                         className: "badge",
-                        children: "Node.js"
+                        children: "Leadership"
                     }, void 0, false, {
                         fileName: "[project]/pages/about.js",
                         lineNumber: 15,
@@ -137,7 +137,7 @@ function About() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                         className: "badge",
-                        children: "SQL"
+                        children: "Entrepreneurship"
                     }, void 0, false, {
                         fileName: "[project]/pages/about.js",
                         lineNumber: 16,
