@@ -13,3 +13,59 @@
 [00:07:17.286] Server  LOG     ✓ Compiled in 9ms
 [00:08:21.200] Server  LOG     ✓ Compiled in 5ms
 [00:10:12.781] Server  LOG     ✓ Compiled in 11ms
+[15:47:16.499] Server  LOG     ✓ Compiled in 6ms
+[15:47:17.004] Server  LOG     ✓ Compiled in 2ms
+[15:47:17.804] Server  LOG     ✓ Compiled in 2ms
+[15:47:18.634] Server  LOG     ✓ Compiled in 3ms
+[15:49:57.647] Server  LOG     ✓ Compiled in 7ms
+[15:49:58.022] Server  LOG     ✓ Compiled in 3ms
+[15:50:17.942] Server  LOG     ✓ Compiled in 6ms
+[15:51:24.658] Server  LOG     ✓ Compiled in 9ms
+[15:51:29.241] Server  LOG     ✓ Compiled in 10ms
+[15:51:42.964] Server  LOG     ✓ Compiled in 6ms
+[15:51:48.828] Server  LOG     ✓ Compiled in 24ms
+[15:51:55.493] Server  LOG     ✓ Compiled in 6ms
+[15:52:05.236] Server  LOG     ✓ Compiled in 4ms
+[15:52:13.748] Server  LOG     ✓ Compiled in 6ms
+[15:52:29.105] Server  LOG     ✓ Compiled in 9ms
+[15:52:38.680] Server  LOG     ✓ Compiled in 6ms
+[15:53:04.289] Server  LOG     ✓ Compiled in 26ms
+[15:53:04.393] Browser ERROR   ./styles/globals.css:14:21
+Parsing CSS source code failed
+  12 |     /* Accent gradient - warm to cool (inspired by reference) */
+  13 |     --gradient-accent: linear-gradient(135deg, #ff4757 0%, #a55eea 50%, #2e86de 100%);
+> 14 |     --gradient-sub80%, rgba(46, 134, 222, 0.05) 100%);
+     |                     ^
+  15 |     
+  16 |     /* Spacing scale */
+  17 |     --space-xs: 8px;
+
+Unexpected token Delim('%')
+
+Import trace:
+  Browser:
+    ./styles/globals.css
+    ./pages/_app.js
+[15:53:10.920] Server  LOG     ✓ Compiled in 6ms
+[15:53:19.038] Server  LOG     ✓ Compiled in 4ms
+[15:53:22.106] Server  LOG     ✓ Compiled in 6ms
+[15:53:29.537] Server  LOG     ✓ Compiled in 6ms
+[15:53:37.977] Server  LOG     ✓ Compiled in 5ms
+[15:53:39.937] Server  LOG     ✓ Compiled in 6ms
+[15:54:09.974] Server  LOG     ✓ Compiled in 5ms
+[15:54:52.089] Server  LOG     ✓ Compiled in 10ms
+[15:55:01.962] Server  LOG     ✓ Compiled in 8ms
+[15:55:17.071] Server  LOG     ✓ Compiled in 5ms
+[15:55:17.246] Server  LOG     ✓ Compiled in 4ms
+[15:55:42.971] Server  LOG     ✓ Compiled in 7ms
+[15:55:53.683] Server  LOG     ✓ Compiled in 7ms
+[15:55:57.584] Server  LOG     ✓ Compiled in 7ms
+[15:56:07.743] Server  LOG     ✓ Compiled in 4ms
+[15:56:24.409] Server  LOG     ✓ Compiled in 6ms
+[15:56:39.533] Server  LOG     ✓ Compiled in 7ms
+[15:57:07.262] Server  LOG     ✓ Compiled in 5ms
+[15:57:26.028] Server  LOG     ✓ Compiled in 7ms
+[15:57:50.141] Server  LOG     ✓ Compiled in 5ms
+[15:57:58.627] Server  LOG     ✓ Compiled in 7ms
+[15:58:10.180] Server  LOG     ✓ Compiled in 7ms
+[15:58:15.397] Server  LOG     ✓ Compiled in 5ms

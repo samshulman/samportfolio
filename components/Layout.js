@@ -4,12 +4,12 @@ export default function Layout({ children }) {
   return (
     <div className="container">
       <nav className="nav">
-        <Link href="/">Home</Link>
-        <Link href="/about">About</Link>
-        <Link href="/contact">Contact</Link>
+        <Link href="/">HOME</Link>
+        <Link href="/about">ABOUT</Link>
+        <Link href="/contact">CONTACT</Link>
       </nav>
       {children}
-      <div className="footer">© {new Date().getFullYear()} Sam Shulman</div>
+      <footer className="footer">© {new Date().getFullYear()} Sam Shulman</footer>
     </div>
   );
 }

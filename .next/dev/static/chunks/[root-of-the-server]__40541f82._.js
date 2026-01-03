@@ -482,7 +482,7 @@ function Layout({ children }) {
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
                         href: "/",
-                        children: "Home"
+                        children: "HOME"
                     }, void 0, false, {
                         fileName: "[project]/components/Layout.js",
                         lineNumber: 7,
@@ -490,7 +490,7 @@ function Layout({ children }) {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
                         href: "/about",
-                        children: "About"
+                        children: "ABOUT"
                     }, void 0, false, {
                         fileName: "[project]/components/Layout.js",
                         lineNumber: 8,
@@ -498,7 +498,7 @@ function Layout({ children }) {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
                         href: "/contact",
-                        children: "Contact"
+                        children: "CONTACT"
                     }, void 0, false, {
                         fileName: "[project]/components/Layout.js",
                         lineNumber: 9,
@@ -511,7 +511,7 @@ function Layout({ children }) {
                 columnNumber: 7
             }, this),
             children,
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("footer", {
                 className: "footer",
                 children: [
                     "© ",
@@ -559,51 +559,66 @@ function Contact() {
                 lineNumber: 6,
                 columnNumber: 7
             }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "gradient-accent gradient-accent-bottom-right"
+            }, void 0, false, {
+                fileName: "[project]/pages/contact.js",
+                lineNumber: 7,
+                columnNumber: 7
+            }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                 className: "sub",
                 children: [
                     "Email me at ",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                        href: "shulman.samantha@gmail.com",
+                        href: "mailto:shulman.samantha@gmail.com",
                         children: "shulman.samantha@gmail.com"
                     }, void 0, false, {
                         fileName: "[project]/pages/contact.js",
-                        lineNumber: 8,
+                        lineNumber: 9,
                         columnNumber: 21
                     }, this),
                     "."
                 ]
             }, void 0, true, {
                 fileName: "[project]/pages/contact.js",
-                lineNumber: 7,
+                lineNumber: 8,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "section",
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                        href: "https://www.linkedin.com/in/samantha-shulman-16b352187/",
-                        target: "_blank",
-                        children: "LinkedIn"
-                    }, void 0, false, {
-                        fileName: "[project]/pages/contact.js",
-                        lineNumber: 11,
-                        columnNumber: 9
-                    }, this),
-                    " · ",
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                        href: "https://github.com/samshulman",
-                        target: "_blank",
-                        children: "GitHub"
-                    }, void 0, false, {
-                        fileName: "[project]/pages/contact.js",
-                        lineNumber: 12,
-                        columnNumber: 9
-                    }, this)
-                ]
-            }, void 0, true, {
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    children: [
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                            href: "https://www.linkedin.com/in/samantha-shulman-16b352187/",
+                            target: "_blank",
+                            rel: "noopener noreferrer",
+                            children: "LinkedIn"
+                        }, void 0, false, {
+                            fileName: "[project]/pages/contact.js",
+                            lineNumber: 13,
+                            columnNumber: 11
+                        }, this),
+                        " · ",
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                            href: "https://github.com/samshulman",
+                            target: "_blank",
+                            rel: "noopener noreferrer",
+                            children: "GitHub"
+                        }, void 0, false, {
+                            fileName: "[project]/pages/contact.js",
+                            lineNumber: 15,
+                            columnNumber: 11
+                        }, this)
+                    ]
+                }, void 0, true, {
+                    fileName: "[project]/pages/contact.js",
+                    lineNumber: 12,
+                    columnNumber: 9
+                }, this)
+            }, void 0, false, {
                 fileName: "[project]/pages/contact.js",
-                lineNumber: 10,
+                lineNumber: 11,
                 columnNumber: 7
             }, this)
         ]

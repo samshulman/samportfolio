@@ -7,13 +7,16 @@ export default function About() {
       <p className="sub">
         I enjoy the outdoors, music, and spending time with friends and family.
       </p>
+      <div className="gradient-accent gradient-accent-bottom-left"></div>
 
       <div className="section">
-        <h3 style={{ marginBottom: 8 }}>Skills & Interests</h3>
-        <div className="badge">Software Engineering</div>
-        <div className="badge">AI Research</div>
-        <div className="badge">Leadership</div>
-        <div className="badge">Entrepreneurship</div>
+        <h3>Skills & Interests</h3>
+        <div>
+          <span className="badge">Software Engineering</span>
+          <span className="badge">AI Research</span>
+          <span className="badge">Leadership</span>
+          <span className="badge">Entrepreneurship</span>
+        </div>
       </div>
     </Layout>
   );
